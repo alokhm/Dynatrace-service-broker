@@ -89,7 +89,7 @@
 						<include>**/DynaTraceServerIntegrationTestSuite.java</include> 
 					</includes>
 				</configuration>
-            </plugin>
+                        </plugin>
         </plugins>
     </build>
 </project>
