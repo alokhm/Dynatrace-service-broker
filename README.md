@@ -30,7 +30,7 @@ $ cf create-service-broker <service_broker> <username> <password> <url_for_servi
 ```
 
 ## Marketplace 
-List all services,plans and desription
+List all services,plans and description
 ```bash
 $ cf marketplace
 ```
