@@ -5,5 +5,5 @@
 .project
 .classpath
 .springBeans
-target
-build
+ target
+
