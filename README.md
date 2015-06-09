@@ -1,5 +1,7 @@
 # Dynatrace Service Broker Deployment and Registration
 
+[![Build Status](https://api.travis-ci.org/hmlingesh/dynatrace-service-broker.svg?branch=master)](https://api.travis-ci.org/hmlingesh/dynatrace-service-broker.svg)
+
 Java spring boot application has been developed for service-broker which will give profile, server details for dynatrace server and collector which has been used for dynatrace agent to send trace data to them. This service-broker will be registered in cloudfoundry , so that in future we can create a service and from the service bind VCAP_SERVICES values to any application.
 
 ## Steps to deploy and register service broker
